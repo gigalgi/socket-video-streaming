@@ -7,6 +7,9 @@
 ![Node](https://img.shields.io/badge/Node.js-Express%20%7C%20Socket.IO-green)
 ![Python](https://img.shields.io/badge/Python-OpenCV%20%7C%20python--socketio-blue)
 
+
+**🌐 Language / Idioma:** &nbsp; [🇬🇧 English](#-english) &nbsp;|&nbsp; [🇨🇴 Español](#-español)
+
 ---
 
 ## 🇬🇧 English
